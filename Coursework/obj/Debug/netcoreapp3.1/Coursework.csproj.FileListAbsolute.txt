@@ -1,0 +1,13 @@
+D:\Uni\UniBIT\II Semester\Практикум програмиране\Coursework\Coursework\bin\Debug\netcoreapp3.1\Coursework.exe
+D:\Uni\UniBIT\II Semester\Практикум програмиране\Coursework\Coursework\bin\Debug\netcoreapp3.1\Coursework.deps.json
+D:\Uni\UniBIT\II Semester\Практикум програмиране\Coursework\Coursework\bin\Debug\netcoreapp3.1\Coursework.runtimeconfig.json
+D:\Uni\UniBIT\II Semester\Практикум програмиране\Coursework\Coursework\bin\Debug\netcoreapp3.1\Coursework.runtimeconfig.dev.json
+D:\Uni\UniBIT\II Semester\Практикум програмиране\Coursework\Coursework\bin\Debug\netcoreapp3.1\Coursework.dll
+D:\Uni\UniBIT\II Semester\Практикум програмиране\Coursework\Coursework\bin\Debug\netcoreapp3.1\Coursework.pdb
+D:\Uni\UniBIT\II Semester\Практикум програмиране\Coursework\Coursework\obj\Debug\netcoreapp3.1\Coursework.csprojAssemblyReference.cache
+D:\Uni\UniBIT\II Semester\Практикум програмиране\Coursework\Coursework\obj\Debug\netcoreapp3.1\Coursework.AssemblyInfoInputs.cache
+D:\Uni\UniBIT\II Semester\Практикум програмиране\Coursework\Coursework\obj\Debug\netcoreapp3.1\Coursework.AssemblyInfo.cs
+D:\Uni\UniBIT\II Semester\Практикум програмиране\Coursework\Coursework\obj\Debug\netcoreapp3.1\Coursework.csproj.CoreCompileInputs.cache
+D:\Uni\UniBIT\II Semester\Практикум програмиране\Coursework\Coursework\obj\Debug\netcoreapp3.1\Coursework.dll
+D:\Uni\UniBIT\II Semester\Практикум програмиране\Coursework\Coursework\obj\Debug\netcoreapp3.1\Coursework.pdb
+D:\Uni\UniBIT\II Semester\Практикум програмиране\Coursework\Coursework\obj\Debug\netcoreapp3.1\Coursework.genruntimeconfig.cache
